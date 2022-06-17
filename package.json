@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/StefanBartl/node-starting-project/issues"
   },
-  "homepage": "https://github.com/StefanBartl/node-starting-project#readme"
+  "homepage": "https://github.com/StefanBartl/node-starting-project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
